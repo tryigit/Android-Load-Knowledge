@@ -17,3 +17,6 @@ This command gives information about all processes in the system. You can see th
 ```
 top
 ```
+
+> [!TIP]
+> Do not use custom roms and custom kernels. You can't imagine how complex and hard to follow the Linux kernel is.
