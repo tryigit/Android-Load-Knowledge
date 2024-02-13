@@ -21,5 +21,5 @@ su -c top
 > [!TIP]
 > Do not use custom roms and custom kernels. You can't imagine how complex and hard to follow the Linux kernel is.
 
-> [!TIP]
-> Telegram @chinacloudgroup
+## Telegram
+Telegram https://t.me/chinacloudgroup
