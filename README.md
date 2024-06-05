@@ -22,4 +22,4 @@ su -c top
 > Do not use custom roms and custom kernels. You can't imagine how complex and hard to follow the Linux kernel is.
 
 ## Telegram
-https://t.me/chinacloudgroup
+https://t.me/cleverestech
