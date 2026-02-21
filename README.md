@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 Most Android "optimization" guides focus on placebos: clearing cache, killing background apps, or installing "performance modules."
 
@@ -17,7 +17,7 @@ This repository takes a **Systems Engineering approach**. We analyze the Android
 *   Why your phone lags even when the CPU is idle (I/O Wait).
 *   How to scientifically prove which app is causing battery drain using tracing tools.
 
-## 📑 Documentation
+## Documentation
 
 ### [1. Understanding Load Average](./docs/01-understanding-load-average.md)
 Stop guessing. Learn the difference between **CPU Usage**, **Run Queues**, and **Uninterruptible Sleep (D-State)**. This is the foundation of all diagnostics.
@@ -33,7 +33,7 @@ Why flashing a custom kernel might be hurting your performance. An analysis of *
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 If you have root access (`su`), run this command to see your system's heartbeat immediately:
 
@@ -52,14 +52,14 @@ su -c top -m 10 -s cpu
 
 ---
 
-## 🤝 Community & Contact
+## Community & Contact
 
 Join our community for high-level discussions on Android internals, optimization, and development.
 
-*   **Telegram Channel:** [Cleverest Technologies](https://t.me/cleverestech)
+*   **Telegram Channel:** [Cleveres Tech](https://t.me/cleverestech)
 
 ---
 
-## 📄 License
+## License
 
 This repository is licensed under the MIT License. feel free to fork, contribute, and share.
